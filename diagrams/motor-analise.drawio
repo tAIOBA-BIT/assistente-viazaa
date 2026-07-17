@@ -1,0 +1,41 @@
+                    LEITURA DAS OBSERVAÇÕES
+
+                             │
+
+                             ▼
+
+                  Motor de Regras Configurável
+
+                             │
+
+                  Existe regra cadastrada?
+
+                  ┌──────────┴───────────┐
+
+                  │                      │
+
+                 Não                    Sim
+
+                  │                      │
+
+                  ▼                      ▼
+
+         Registrar Nova          Classificar Evento
+
+            Mensagem                    │
+
+                  │                      ▼
+
+                  │             Determinar Prioridade
+
+                  │                      │
+
+                  └──────────────┬───────┘
+
+                                 ▼
+
+                         Enviar Classificação
+
+                                 ▼
+
+                          Orquestrador de Fluxo

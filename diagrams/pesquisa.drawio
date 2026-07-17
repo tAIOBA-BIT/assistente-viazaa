@@ -1,0 +1,48 @@
+                       CONSULTA INTELIGENTE
+
+                              │
+                              ▼
+
+                     Receber Dados da OP
+
+                              │
+                              ▼
+
+                     Validar Informações
+
+                              │
+                              ▼
+
+                 Pesquisar Portais em Paralelo
+
+          ┌────────────┬────────────┬────────────┐
+          ▼            ▼            ▼
+
+       Wooba       Kontrip      Companhia
+
+          │            │            │
+          ▼            ▼            ▼
+
+     Capturar     Capturar     Capturar
+      Tarifas      Tarifas      Tarifas
+
+          └────────────┼────────────┘
+                       ▼
+
+                  Comparador
+
+                       ▼
+
+           Identificar Melhor Tarifa
+
+                       ▼
+
+            Identificar Trecho Afetado
+
+                       ▼
+
+             Calcular Diferenças
+
+                       ▼
+
+            Enviar para Conferência

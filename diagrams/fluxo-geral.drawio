@@ -1,0 +1,88 @@
+                                      ASSISTENTE VIAZA
+
+                                            │
+                                            ▼
+
+                                   Operador abre a OP
+
+                                            │
+                                            ▼
+
+                                 Leitura Automática da OP
+
+                                            │
+                                            ▼
+
+                                 Motor de Análise Inteligente
+
+                                            │
+                                            ▼
+
+                                     Motor de Regras
+
+                                            │
+                                            ▼
+
+                                      Classificação
+
+                                            │
+                                            ▼
+
+                           A OP necessita de processamento?
+
+                               ┌─────────────┴─────────────┐
+                               │                           │
+                               ▼                           ▼
+
+                        Não necessita               Necessita pesquisa
+
+                               │                           │
+                               │                           ▼
+                               │                  Pesquisa Automática
+                               │                           │
+                               │                           ▼
+                               │                  Leitura dos Portais
+                               │                           │
+                               │                           ▼
+                               │                    Comparador
+                               │                           │
+                               │                           ▼
+                               │               Identificação do Trecho
+                               │                           │
+                               │                           ▼
+                               │                  Busca de Dados
+                               │                           │
+                               │                           ▼
+                               │                Tela de Conferência
+                               │                           │
+                               │                           ▼
+                               │                Aprovação do Operador?
+                               │
+                     ┌──────────┴──────────┐
+                     │                     │
+                     ▼                     ▼
+
+                  Cancelar             Executar Ações
+
+                                           │
+                          ┌────────────────┼────────────────┐
+                          ▼                ▼                ▼
+
+                     WhatsApp          Email            Gerar PDF
+
+                          │                │                │
+                          └────────────────┼────────────────┘
+                                           ▼
+
+                                   Anexar PDF na OP
+
+                                           │
+                                           ▼
+
+                                      Registro Geral
+
+                                           │
+                               ┌───────────┴────────────┐
+                               ▼                        ▼
+
+                          Histórico               Dashboard
